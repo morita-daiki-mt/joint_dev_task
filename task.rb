@@ -90,11 +90,11 @@ def q10
     message = (food.include? "うに")? "好物です" : "まぁまぁ好きです"
     p message
   end
-  #   # if food.include?("うに")
-  #   #   puts "好物です"
-  #   # else
-  #   #   puts "まぁまぁ好きです"
-  #   # end
+  #   if food.include?("うに")
+  #     puts "好物です"
+  #   else
+  #     puts "まぁまぁ好きです"
+  #   end
   # end
 end
 
